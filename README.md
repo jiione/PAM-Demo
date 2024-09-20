@@ -51,6 +51,6 @@
    비밀번호 정책 적용 후 문제가 발생할 경우, 다음 명령어로 시스템 로그를 확인할 수 있습니다:
 
    ```bash
-   sudo tail -f /var/log/auth.log  # Ubuntu, Debian 계열
+   sudo tail -f /var/log/auth.log
    ```
 
